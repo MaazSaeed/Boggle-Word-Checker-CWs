@@ -6,5 +6,3 @@ without re-using any previously used cells.
 
 The problem can be solved via recursion, but for added challenge I solved it using iteration.
 
-You can find the kata [here](https://www.codewars.com/kata/57680d0128ed87c94f000bfd/javascript). Enjoy (:
-
